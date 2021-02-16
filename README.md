@@ -31,7 +31,7 @@ npm install
 
 ```
 yarn
-then
+yarn build
 yarn start
 ```
 
