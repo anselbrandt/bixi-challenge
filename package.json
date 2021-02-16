@@ -8,9 +8,9 @@
   "license": "MIT",
   "scripts": {
     "tsc": "tsc",
-    "postinstall": "cd web && yarn",
+    "postinstall": "tsc && cd web && yarn",
     "prestart": "yarn build && cd web && yarn build",
-    "build": "yarn clean && yarn tsc && yarn copy-files",
+    "build": "yarn clean && tsc && yarn copy-files",
     "clean": "rm -rf ./dist",
     "copy-files": "cp ./src/public/*.* ./dist/",
     "watch": "tsc -w",
