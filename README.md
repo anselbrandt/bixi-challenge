@@ -21,7 +21,7 @@ npx degit https://github.com/anselbrandt/bixi-challenge bixi-challenge
 Then:
 
 ```
-cd express-react-ts
+cd bixi-challenge
 yarn
 or
 npm install
