@@ -6,7 +6,7 @@ This example application in Typescript runs on Express in the backend and serves
 
 Deploy this example using [Heroku](https://www.heroku.com/)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anselbrandt/express-react-ts)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anselbrandt/bixi-challenge)
 
 ## How to use
 
@@ -15,7 +15,7 @@ Deploy this example using [Heroku](https://www.heroku.com/)
 Execute [`npx degit`](https://github.com/Rich-Harris/degit) to bootstrap this example:
 
 ```bash
-npx degit https://github.com/anselbrandt/express-react-ts express-react-ts
+npx degit https://github.com/anselbrandt/bixi-challenge bixi-challenge
 ```
 
 Then:
